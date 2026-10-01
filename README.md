@@ -17,4 +17,6 @@ console.log('5. Addition operator: ${q5}');
 
 console.log("\nThanks for completing the quiz!");
 
- 
+
+
+
